@@ -1,4 +1,5 @@
 field,index,display
+objectid,TRUE,TRUE
 title,TRUE,TRUE
 language,TRUE,TRUE
 date ,TRUE,TRUE
