@@ -12,22 +12,18 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## Team 3 Calabash Journal Articles
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Multilingual and focused on centering unheard voices, Calabash: A Journal of Caribbean Arts and Letters was a pioneering journal showcasing poetry, literature, and visual arts from across the Caribbean (web archived version). The journal, which Dr. Bishop edited from 2000-2008, had since ceased publishing, and the NYU server that had been hosting the site has been retired. Since there were no existing metadata records, we modified a web scraping script from a recent NYU Libraries Library Carpentry workshop in order to extract article metadata from the Calabash website. The metadata was further prepared using OpenRefine, open source software for data transformation and cleanup. Meanwhile, we also pulled the PDFs from the Calabash site and stored the files in a Github repository.
+This site is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
 - a CSV of collection metadata
 - a folder of images, PDFs, audio, or video files
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
