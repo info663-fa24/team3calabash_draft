@@ -1,4 +1,5 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
+objectid,ObjectId,,,DCTERMS.identifier,identifier
 title,Title,,,DCTERMS.title,name
 language,Language,,,DCTERMS.language,inLanguage
 date ,Date,,,DCTERMS.date,datePublished
