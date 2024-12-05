@@ -1,5 +1,22 @@
 field,display_name
 title,Title
-date,Date
+language,Language
+date ,Date
+date ,Date
+rights,Rights
+citation,Citation
+creator,Creator
+creator,Creator
 description,Description
+source,Source
+source,Source
+identifier,Identifier
+location,Location
+identifier,Identifier
+source,Source
+source,Source
 subject,Subjects
+source,Source
+identifier,Identifier
+creator,Creator
+creator,Creator
