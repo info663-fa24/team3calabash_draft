@@ -1,4 +1,5 @@
 field,display_name,btn,hidden,sort_name
+objectid,ObjectId,TRUE,,ObjectId
 title,Title,TRUE,,Title
 language,Language,TRUE,,Language
 date ,Date,TRUE,,Date
