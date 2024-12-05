@@ -1,7 +1,22 @@
 field,index,display
-title,true,true
-date,true,true
-creator,true,false
-description,true,true
-subject,true,true
-location,true,false
+title,TRUE,TRUE
+language,TRUE,TRUE
+date ,TRUE,TRUE
+date ,TRUE,TRUE
+rights,TRUE,TRUE
+citation,TRUE,TRUE
+creator,TRUE,TRUE
+creator,TRUE,TRUE
+description,TRUE,TRUE
+source,TRUE,TRUE
+source,TRUE,TRUE
+identifier,TRUE,TRUE
+location,TRUE,TRUE
+identifier,TRUE,TRUE
+source,TRUE,TRUE
+source,TRUE,TRUE
+subject,TRUE,TRUE
+source,TRUE,TRUE
+identifier,TRUE,TRUE
+creator,TRUE,TRUE
+creator,TRUE,TRUE
