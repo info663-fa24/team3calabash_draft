@@ -2,17 +2,17 @@ field,index,display
 title,TRUE,TRUE
 language,TRUE,TRUE
 date ,TRUE,TRUE
-,TRUE,TRUE
+,,
 rights,TRUE,TRUE
 citation,TRUE,TRUE
 creator,TRUE,TRUE
-,TRUE,TRUE
+,,
 description,TRUE,TRUE
 source,TRUE,TRUE
-,TRUE,TRUE
+,,
 identifier,TRUE,TRUE
 location,TRUE,TRUE
-,TRUE,TRUE
-,TRUE,TRUE
-,TRUE,TRUE
+,,
+,,
+,,
 subject,TRUE,TRUE
