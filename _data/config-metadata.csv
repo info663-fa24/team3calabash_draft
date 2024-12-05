@@ -1,14 +1,22 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+title,Title,,,DCTERMS.title,name
+language,Language,,,DCTERMS.language,inLanguage
+date ,Date,,,DCTERMS.date,datePublished
+date ,Date,,,DCTERMS.date,datePublished
+rights,Rights,,,DCTERMS.rights,copyrightNotice
+citation,Citation,,,DCTERMS.rightsHolder,citation
+creator,Creator,,,DCTERMS.creator,translator
+creator,Creator,,,DCTERMS.creator,author
+description,Description,,,DCTERMS.description,abstract
+source,Source,,,DCTERMS.relation,volumeNumber
+source,Source,,,DCTERMS.relation,PublicationIssue
+identifier,Identifier,,,DCTERMS.identifier,identifier
+location,Location,,,DCTERMS.identifier,url
+identifier,Identifier,,,DCTERMS.identifier,issn
+source,Source,,,DCTERMS.format,pageStart
+source,Source,,,DCTERMS.format,pageEnd
+subject,Subjects,,,DCTERMS.subject,genre
+source,Source,,,DCTERMS.relation,Periodical
+identifier,Identifier,,,DCTERMS.identifier,issn
+creator,Creator,,,DCTERMS.creator,contributor
+creator,Creator,,,DCTERMS.creator,contributor
