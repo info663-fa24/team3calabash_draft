@@ -2,16 +2,16 @@ field,index,display
 objectid,TRUE,TRUE
 title,TRUE,TRUE
 language,TRUE,TRUE
-date ,TRUE,TRUE
+date;date,TRUE,TRUE
 ,,
 rights,TRUE,TRUE
 citation,TRUE,TRUE
-creator,TRUE,TRUE
+creator;creator;creator;creator,TRUE,TRUE
 ,,
 description,TRUE,TRUE
-source,TRUE,TRUE
+source;source;source;source;source,TRUE,TRUE
 ,,
-identifier,TRUE,TRUE
+identifier;identifier,TRUE,TRUE
 location,TRUE,TRUE
 ,,
 ,,
