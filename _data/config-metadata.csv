@@ -2,16 +2,16 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 objectid,ObjectId,,,DCTERMS.identifier,identifier
 title,Title,,,DCTERMS.title,name
 language,Language,,,DCTERMS.language,inLanguage
-date ,Date,,,DCTERMS.date,datePublished
+date;date,Date,,,DCTERMS.date,datePublished
 ,,,,,
 rights,Rights,,,DCTERMS.rights,copyrightNotice
 citation,Citation,,,DCTERMS.rightsHolder,citation
-creator,Creator,,,DCTERMS.creator,translator
+creator;creator;creator;creator,Creator,,,DCTERMS.creator,translator
 ,,,,,
 description,Description,,,DCTERMS.description,abstract
-source,Source,,,DCTERMS.relation,volumeNumber
+source;source;source;source;source,Source,,,DCTERMS.relation,volumeNumber
 ,,,,,
-identifier,Identifier,,,DCTERMS.identifier,identifier
+identifier;identifier,Identifier,,,DCTERMS.identifier,identifier
 location,Location,,,DCTERMS.identifier,url
 ,,,,,
 ,,,,,
