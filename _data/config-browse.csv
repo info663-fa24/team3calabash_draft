@@ -2,16 +2,16 @@ field,display_name,btn,hidden,sort_name
 objectid,ObjectId,TRUE,,ObjectId
 title,Title,TRUE,,Title
 language,Language,TRUE,,Language
-date ,Date,TRUE,,Date
+date;date,Date,TRUE,,Date
 ,,,,
 rights,Rights,TRUE,,Rights
 citation,Citation,TRUE,,Citation
-creator,Creator,TRUE,,Creator
+creator;creator;creator;creator,Creator,TRUE,,Creator
 ,,,,
 description,Description,TRUE,,Description
-source,Source,TRUE,,Source
+source;source;source;source;source,Source,TRUE,,Source
 ,,,,
-identifier,Identifier,TRUE,,Identifier
+identifier;identifier,Identifier,TRUE,,Identifier
 location,Location,TRUE,,Location
 ,,,,
 ,,,,
