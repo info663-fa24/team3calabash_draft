@@ -2,16 +2,16 @@ field,display_name
 objectid,ObjectId
 title,Title
 language,Language
-date ,Date
+date;date,Date
 ,
 rights,Rights
 citation,Citation
-creator,Creator
+creator;creator;creator;creator,Creator
 ,
 description,Description
-source,Source
+source;source;source;source;source,Source
 ,
-identifier,Identifier
+identifier;identifier,Identifier
 location,Location
 ,
 ,
