@@ -1,7 +1,19 @@
 field,index,display
+objectid,TRUE,TRUE
 title,TRUE,TRUE
-translated_title,TRUE,TRUE
+language,TRUE,TRUE
+date ,TRUE,TRUE
+,,
+rights,TRUE,TRUE
+citation,TRUE,TRUE
 creator,TRUE,TRUE
-translator,TRUE,TRUE
+,,
 description,TRUE,TRUE
-article_type,TRUE,TRUE
+source,TRUE,TRUE
+,,
+identifier,TRUE,TRUE
+location,TRUE,TRUE
+,,
+,,
+,,
+subject,TRUE,TRUE
