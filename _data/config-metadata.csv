@@ -1,24 +1,19 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-object_id,Object ID,,TRUE,DCTERMS.identifier,identifier
-object_location,PDF Location,,TRUE,DCTERMS.location,location
-title,Article Title,TRUE,,DCTERMS.title,name
-translated_title,Translated Title,TRUE,,DCTERMS.title,name
-language,Language,TRUE,,DCTERMS.language,inLanguage
-creator,Author,TRUE,,DCTERMS.creator,author
-translator,Translator,TRUE,,DCTERMS.contributor,translator
-article_type,Article Type,TRUE,,DCTERMS.type,article
-subject,Subject,TRUE,,DCTERMS.subject,about
-pdf_filename,PDF Filename,TRUE,,DCTERMS.format,DigitalDocument
-description,Abstract,TRUE,,DCTERMS.description,abstract
-doi,DOI,TRUE,,DCTERMS.location,identifier
-year,Year,TRUE,,DCTERMS.date,date
-issue,Issue,TRUE,,DCTERMS.source,issueNumber
-volume,Volume,TRUE,,DCTERMS.source,volumeNumber
-first_page,First Page,TRUE,,DCTERMS.format,format
-last_page,Last Page,TRUE,,DCTERMS.format,format
-season,Season,,,DCTERMS.date,datePublished
-issn,ISSN,TRUE,,DCTERMS.identifier,issn
-journal_title,Journal Title,TRUE,,DCTERMS.relation,Periodical
-publisher,Publisher,TRUE,,DCTERMS.publisher,publisher
-rights,Rights,TRUE,,DCTERMS.rights,copyrightNotice
-citation,Citation,TRUE,,DCTERMS.bibliographicCitation,citation
+objectid,ObjectId,,,DCTERMS.identifier,identifier
+title,Title,,,DCTERMS.title,name
+language,Language,,,DCTERMS.language,inLanguage
+date ,Date,,,DCTERMS.date,datePublished
+,,,,,
+rights,Rights,,,DCTERMS.rights,copyrightNotice
+citation,Citation,,,DCTERMS.rightsHolder,citation
+creator,Creator,,,DCTERMS.creator,translator
+,,,,,
+description,Description,,,DCTERMS.description,abstract
+source,Source,,,DCTERMS.relation,volumeNumber
+,,,,,
+identifier,Identifier,,,DCTERMS.identifier,identifier
+location,Location,,,DCTERMS.identifier,url
+,,,,,
+,,,,,
+,,,,,
+subject,Subjects,,,DCTERMS.subject,genre
