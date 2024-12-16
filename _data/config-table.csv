@@ -1,24 +1,19 @@
 field,display_name
-object_id,Object ID
-object_location,PDF Location
-title,Article Title
-translated_title,Translated Title
+objectid,ObjectId
+title,Title
 language,Language
-creator,Author
-translator,Translator
-article_type,Article Type
-subject,Subject
-pdf_filename,PDF Filename
-description,Abstract
-doi,DOI
-year,Year
-issue,Issue
-volume,Volume
-first_page,First Page
-last_page,Last Page
-season,Season
-issn,ISSN
-journal_title,Journal Title
-publisher,Publisher
+date ,Date
+,
 rights,Rights
 citation,Citation
+creator,Creator
+,
+description,Description
+source,Source
+,
+identifier,Identifier
+location,Location
+,
+,
+,
+subject,Subjects
